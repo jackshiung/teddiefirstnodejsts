@@ -1,0 +1,32 @@
+# Workspace
+.vscode/
+.DS_Store
+
+# Node Packages
+node_modules/
+
+# Logs
+logs
+*.log
+npm-debug.log*x
+
+# Build
+dist/
+public/build/
+
+# Development
+typings/
+generate-ts-db-models/
+
+# Keys
+keys/*.json
+google-cloud-storage.json
+firebase-key.json
+
+# config
+# env
+
+
+# test
+
+
